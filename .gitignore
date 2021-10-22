@@ -5,6 +5,7 @@ obj
 packages
 /.vs
 /.vs/SqlNoSql
+/.vs/SqlNoSql/v16
 /SqlNoSql.Application/bin
 /SqlNoSql.Application/obj
 /SqlNoSql.Core/bin
