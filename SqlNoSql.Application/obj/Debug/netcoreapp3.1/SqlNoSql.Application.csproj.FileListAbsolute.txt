@@ -1,0 +1,14 @@
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Application.deps.json
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Application.dll
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Application.pdb
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Core.dll
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Sql.dll
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Sql.pdb
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\bin\Debug\netcoreapp3.1\SqlNoSql.Core.pdb
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.csproj.AssemblyReference.cache
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.AssemblyInfoInputs.cache
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.AssemblyInfo.cs
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.csproj.CoreCompileInputs.cache
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.csproj.CopyComplete
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.dll
+E:\DevTools\Search\SqlNoSqlTest\SqlNoSql.Application\obj\Debug\netcoreapp3.1\SqlNoSql.Application.pdb
