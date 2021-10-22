@@ -4,6 +4,7 @@ bin
 obj
 packages
 /.vs
+/.vs/SqlNoSql
 /SqlNoSql.Application/bin
 /SqlNoSql.Application/obj
 /SqlNoSql.Core/bin
