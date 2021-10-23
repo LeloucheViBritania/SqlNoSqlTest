@@ -544,7 +544,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\olivier.kra\\.nuget\\packages\\": {},
+    "C:\\Users\\brice.kouadio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -552,11 +552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevTools\\Search\\SqlNoSqlTest\\SqlNoSql.Sql\\SqlNoSql.Sql.csproj",
+      "projectUniqueName": "E:\\Perso\\repos\\architectureInexa\\SqlNoSqlTest\\SqlNoSql.Sql\\SqlNoSql.Sql.csproj",
       "projectName": "SqlNoSql.Sql",
-      "projectPath": "E:\\DevTools\\Search\\SqlNoSqlTest\\SqlNoSql.Sql\\SqlNoSql.Sql.csproj",
-      "packagesPath": "C:\\Users\\olivier.kra\\.nuget\\packages\\",
-      "outputPath": "E:\\DevTools\\Search\\SqlNoSqlTest\\SqlNoSql.Sql\\obj\\",
+      "projectPath": "E:\\Perso\\repos\\architectureInexa\\SqlNoSqlTest\\SqlNoSql.Sql\\SqlNoSql.Sql.csproj",
+      "packagesPath": "C:\\Users\\brice.kouadio\\.nuget\\packages\\",
+      "outputPath": "E:\\Perso\\repos\\architectureInexa\\SqlNoSqlTest\\SqlNoSql.Sql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -564,7 +564,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\olivier.kra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brice.kouadio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -581,8 +581,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\DevTools\\Search\\SqlNoSqlTest\\SqlNoSql.Core\\SqlNoSql.Core.csproj": {
-              "projectPath": "E:\\DevTools\\Search\\SqlNoSqlTest\\SqlNoSql.Core\\SqlNoSql.Core.csproj"
+            "E:\\Perso\\repos\\architectureInexa\\SqlNoSqlTest\\SqlNoSql.Core\\SqlNoSql.Core.csproj": {
+              "projectPath": "E:\\Perso\\repos\\architectureInexa\\SqlNoSqlTest\\SqlNoSql.Core\\SqlNoSql.Core.csproj"
             }
           }
         }
@@ -617,7 +617,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

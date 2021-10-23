@@ -3,3 +3,16 @@
 bin
 obj
 packages
+/.vs
+/.vs/SqlNoSql
+/.vs/SqlNoSql/v16
+/SqlNoSql.Application/bin
+/SqlNoSql.Application/obj
+/SqlNoSql.Core/bin
+/SqlNoSql.Core/obj
+/SqlNoSql.NoSql/bin
+/SqlNoSql.NoSql/obj
+/SqlNoSql.Sql/obj
+/SqlNoSql.Sql/bin
+/SqlNoSqlConsoleTest/bin
+/SqlNoSqlConsoleTest/obj

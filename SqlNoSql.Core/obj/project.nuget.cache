@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6TkZ5hHewLOoiMpr3VV6Ln+fe0zo4+6M0gikKISTV1pm+zq8NN7e2xFkvPGMBhgwcMW36B4kgCvrw9bnJTlB0w==",
+  "dgSpecHash": "32Qy+MVJMUKffZzzUGams6adZJE4adVtX01Vlulr2jTOaxERxivJ/4Ble1x8obpGkbTapktwNqbC6aUOgWDjYg==",
   "success": true,
-  "projectFilePath": "E:\\DevTools\\Search\\SqlNoSqlTest\\SqlNoSql.Core\\SqlNoSql.Core.csproj",
+  "projectFilePath": "E:\\Perso\\repos\\architectureInexa\\SqlNoSqlTest\\SqlNoSql.Core\\SqlNoSql.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
